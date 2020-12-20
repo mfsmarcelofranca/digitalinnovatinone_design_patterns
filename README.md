@@ -5,7 +5,7 @@ Aula: Aplicando design patterns na prática com C# - Digital Innovation One - Es
 ### STRATEGY
 ### FACTORY
 ### SINGLETON
-### TEMPLATE METHODD
+### TEMPLATE METHOD
 ### DECORATOR
 
 # Explicação dos conceitos:
